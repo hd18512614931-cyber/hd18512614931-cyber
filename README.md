@@ -15,67 +15,78 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
-## 关于我 / About
+## 方向 / Focus
 
-我关注的不只是“做出一个 Demo”，而是把创意逐步整理成有清晰结构、可验证流程、演示材料和交付文档的完整项目。
+我更关注“创意如何变成真正能运行的产品”，而不是只堆 Demo 数量。
 
-- **创意工具**：Photoshop、Cinema 4D 插件与本地 AI 工作流
-- **游戏与实时交互**：Unreal Engine、Godot、Three.js / WebGL
-- **AI 工程化**：Agent、MCP、跨会话记忆、自动化工作流
-- **产品交付**：从原型、功能实现、演示视频到 README、CI/CD 和部署
+- **Creative Tools**：Photoshop、Cinema 4D、Redshift、本地 AI 与工作流插件。
+- **Game & Realtime**：Unreal Engine、Godot、Three.js / WebGL、交互原型与实时视觉。
+- **AI-assisted Development**：Agent、MCP、Codex、Claude Code、本地 AI 服务与自动化流程。
+- **Engineering & Delivery**：Git、GitHub Actions、云服务、部署、演示视频和技术文档。
 
-> I enjoy turning visual ideas into working software, then documenting the architecture, trade-offs and delivery process so the project can be understood and continued by others.
+> I like turning visual ideas into working software, then documenting the architecture, trade-offs and delivery process so the project can be understood and continued by others.
 
-## 精选公开项目 / Featured Public Projects
+## 精选公开项目 / Featured Public Project
 
-### [佛山木版年画 AI 创作微信小程序](https://github.com/hd18512614931-cyber/model-server)
+### [年画薪造数字坊 · 微信小程序](https://github.com/hd18512614931-cyber/model-server)
 
-面向非遗数字化展示的互动小程序：将 AI 图像生成、后端分色、五色套印交互、2D 图层拆解、3D 展示和自动化部署连接成完整体验。
+**Status: Live · Portfolio Project**
+
+面向佛山木版年画数字化展示的微信小程序。项目把 AI 图像生成、后端分色、传统套印逻辑、2D 图层拆解、3D 展示和 CloudBase 资源链路连接成一套完整体验。
+
+小程序已经正式上线；仓库首页提供可扫码体验的小程序码，同时明确记录了当前源码快照与最后一次线上发布版本之间的边界。
 
 `WeChat Mini Program` · `JavaScript` · `CloudBase` · `AI Image Generation` · `Image Processing` · `GitHub Actions`
 
-### [Convergent Memory](https://github.com/hd18512614931-cyber/convergent-memory)
-
-一个本地优先、可人工阅读的跨 Agent 长期记忆协议。使用 Markdown 和目录结构完成记忆召回、收敛重写与归档，不依赖向量数据库、API Key 或外部服务。
-
-`AI Agents` · `Claude Code Plugin` · `Markdown Protocol` · `Local-first` · `MIT`
-
 ## 开源贡献 / Open-source Contribution
 
-- **Operit** — [Fix cloud embedding endpoint validation · PR #588](https://github.com/AAswordman/Operit/pull/588) **（已合并 / Merged）**  
+- **Operit** — [Fix cloud embedding endpoint validation · PR #588](https://github.com/AAswordman/Operit/pull/588) **Merged**  
   增加云端 Embedding 地址校验、内联错误提示和保存成功反馈，避免多行或无效 Endpoint 被持久化后造成请求失败。
+
+## 已完成 / 已归档项目 · Completed / Archived
+
+### [Convergent Memory v0.2 · Java Server](https://github.com/hd18512614931-cyber/convergent-memory/tree/main)
+
+**Status: Archived · Previously Deployed & Demonstrated**
+
+使用 Java 17 + Spring Boot 实现的多用户跨 AI 长期记忆 REST API，包含 Token 鉴权、记忆 CRUD / 搜索、两阶段收敛流程、JPA/H2、Swagger 与 AgentScope 接入。
+
+该版本曾成功部署到 DigitalOcean，并在 Java 课程中完成现场演示；原服务器现已过期，运行数据不再在线，但完整服务端源码仍保存在 `main` 分支。仓库默认 `master` 分支是后续的 Markdown 协议实验版，目前同样不再积极维护。
+
+`Java 17` · `Spring Boot` · `Spring Security` · `JPA` · `H2` · `Swagger` · `REST API`
 
 ## 正在整理公开的作品 / Portfolio in Preparation
 
-| 方向 | 代表内容 |
-|---|---|
-| **Game & Interactive Prototypes** | Unreal Engine 跑酷原型、Three.js / WebGL 场景、角色交互与 GitHub Pages 部署 |
-| **AixLab Creative Plugins** | Photoshop AI 抠图与电商工作流插件、Cinema 4D / Redshift 工具 |
-| **Mobile Creative Apps** | 旅印相机、电商长图拼接工具、操作手册与功能演示 |
+| 方向 | 代表内容 | 当前策略 |
+|---|---|---|
+| **Game & Interactive Prototypes** | Unreal Engine 跑酷原型、Three.js / WebGL 场景、角色交互与 Pages 部署 | 整理第三方素材边界后再公开干净版本 |
+| **AixLab Creative Plugins** | Photoshop AI 抠图与电商工作流插件、Cinema 4D / Redshift 工具 | 优先公开源码完整、授权清楚的插件 |
+| **Mobile Creative Apps** | 旅印相机、电商长图拼接工具、操作手册与功能演示 | 区分完整源码、APK 与交付资料 |
 
-部分作品仓库目前保持私有，用于继续检查第三方素材授权、敏感配置和可公开范围；完成整理后会逐步发布可阅读、可运行的作品集版本。
+部分作品仓库目前保持私有，用于继续检查第三方素材授权、敏感配置和可公开范围。
 
-## 技术与工具 / Toolbox
+## Toolbox
 
 | 领域 | 技术与工具 |
 |---|---|
 | **Game & Realtime** | Unreal Engine · Godot · Three.js · WebGL |
 | **Web & Desktop** | TypeScript · JavaScript · React · Electron · Vite |
-| **AI & Automation** | AI Agents · MCP · Codex · Claude Code · Local AI Services |
+| **Backend & AI** | Java · Spring Boot · Python · AI Agents · MCP · Local AI Services |
 | **Creative Workflow** | Photoshop · Cinema 4D · Redshift · Image Processing |
 | **Engineering** | Git · GitHub Actions · CI/CD · CloudBase · Technical Documentation |
 
-## 我的工作方式 / How I Work
+## 仓库原则 / Repository Principles
 
-1. **先定义可验证目标**：明确用户操作、输入输出和验收标准，而不是只描述视觉效果。
-2. **快速建立可运行原型**：先打通核心流程，再逐步优化结构、性能和体验。
-3. **保留工程证据**：通过提交记录、测试结果、演示视频和文档说明项目如何完成。
-4. **区分源码、素材与产物**：避免把缓存、密钥、本机路径和无关构建文件带入仓库。
-5. **诚实标注项目边界**：明确原创、二次开发、研究参考、Fork 和暂未公开的内容。
+1. **状态说清楚**：Active、Live、Completed、Archived、Research / Fork 明确区分。
+2. **贡献边界说清楚**：原创、二次开发、开源基础、研究镜像和第三方素材分别标注。
+3. **源码与产物分开**：APK、演示视频、交付文件不会被包装成完整源码。
+4. **本地配置不进仓库**：密钥、本机路径、缓存和编辑器私有状态默认排除。
+5. **保留工程证据**：通过 commit、PR、演示、测试和文档说明项目是如何完成的。
 
 ---
 
@@ -83,7 +94,6 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 **AI × Creative Tools × Game Development**
 
-正在持续整理项目、补充演示并开放更多原创作品。  
 Building, documenting and shipping one project at a time.
 
 </div>
