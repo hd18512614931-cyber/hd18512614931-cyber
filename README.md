@@ -1,6 +1,6 @@
 <div align="center">
 
-# 邹亨典 · Zou Hengdian
+# zou-handy · Zou Hengdian
 
 ### Creative Developer · AI Tools · Game & Interactive Experiences
   
