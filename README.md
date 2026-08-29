@@ -22,14 +22,13 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 > I like turning visual ideas into working software, then documenting the architecture, trade-offs and delivery process so the project can be understood and continued by others.
 
-## 公开项目 / Featured Public Project
+## 精选公开项目 / Featured Public Project
 
 ### [年画薪造数字坊 · 微信小程序](https://github.com/zou-handy/nianhua-digital-workshop)
 
 **Status: Live · Portfolio Project**
 
-4a7ea05b7de18481673485bf08163164.jpg
-
+<img src="4a7ea05b7de18481673485bf08163164.jpg" alt="年画薪造数字坊微信小程序码" width="220" />
 
 面向佛山木版年画数字化展示的微信小程序。项目把 AI 图像生成、后端分色、传统套印逻辑、2D 图层拆解、3D 展示和 CloudBase 资源链路连接成一套完整体验。
 
@@ -37,7 +36,10 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 `WeChat Mini Program` · `JavaScript` · `CloudBase` · `AI Image Generation` · `Image Processing` · `GitHub Actions`
 
-### 万圣节wayfinder游戏 https://zou-handy.github.io/game-inspiration-zou-hengdian/exact/index.html
+### [Halloween Wayfinder 互动场景原型](https://zou-handy.github.io/game-inspiration-zou-hengdian/exact/index.html)
+
+**Status: WebGL / Three.js Interactive Prototype**
+
 
 ## 开源贡献 / Open-source Contribution
 
