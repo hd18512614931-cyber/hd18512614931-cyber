@@ -33,13 +33,13 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 ## 精选公开项目 / Featured Public Project
 
-### [年画薪造数字坊 · 微信小程序](https://github.com/hd18512614931-cyber/model-server)
+### [年画薪造数字坊 · 微信小程序](https://github.com/zou-handy/nianhua-digital-workshop)
 
 **Status: Live · Portfolio Project**
 
 面向佛山木版年画数字化展示的微信小程序。项目把 AI 图像生成、后端分色、传统套印逻辑、2D 图层拆解、3D 展示和 CloudBase 资源链路连接成一套完整体验。
 
-小程序已经正式上线；仓库首页提供可扫码体验的小程序码，同时明确记录了当前源码快照与最后一次线上发布版本之间的边界。
+小程序已经正式上线；仓库首页提供可扫码体验的小程序码与完整功能演示视频，同时明确记录了当前源码快照与最后一次线上发布版本之间的边界。
 
 `WeChat Mini Program` · `JavaScript` · `CloudBase` · `AI Image Generation` · `Image Processing` · `GitHub Actions`
 
@@ -50,7 +50,7 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 ## 已完成 / 已归档项目 · Completed / Archived
 
-### [Convergent Memory v0.2 · Java Server](https://github.com/hd18512614931-cyber/convergent-memory/tree/main)
+### [Convergent Memory v0.2 · Java Server](https://github.com/zou-handy/convergent-memory/tree/main)
 
 **Status: Archived · Previously Deployed & Demonstrated**
 
