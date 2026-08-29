@@ -3,8 +3,7 @@
 # 邹亨典 · Zou Hengdian
 
 ### Creative Developer · AI Tools · Game & Interactive Experiences
-
-把视觉创意、AI 工作流与实时交互，做成可以运行、演示和持续迭代的产品。  
+  
 I build practical creative tools, AI-assisted workflows, games and interactive experiences.
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
@@ -20,14 +19,6 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 </div>
 
-## 方向 / Focus
-
-我更关注“创意如何变成真正能运行的产品”，而不是只堆 Demo 数量。
-
-- **Creative Tools**：Photoshop、Cinema 4D、Redshift、本地 AI 与工作流插件。
-- **Game & Realtime**：Unreal Engine、Godot、Three.js / WebGL、交互原型与实时视觉。
-- **AI-assisted Development**：Agent、MCP、Codex、Claude Code、本地 AI 服务与自动化流程。
-- **Engineering & Delivery**：Git、GitHub Actions、云服务、部署、演示视频和技术文档。
 
 > I like turning visual ideas into working software, then documenting the architecture, trade-offs and delivery process so the project can be understood and continued by others.
 
@@ -36,6 +27,9 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 ### [年画薪造数字坊 · 微信小程序](https://github.com/zou-handy/nianhua-digital-workshop)
 
 **Status: Live · Portfolio Project**
+
+![Uploading image.png…]()
+
 
 面向佛山木版年画数字化展示的微信小程序。项目把 AI 图像生成、后端分色、传统套印逻辑、2D 图层拆解、3D 展示和 CloudBase 资源链路连接成一套完整体验。
 
