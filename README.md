@@ -28,7 +28,7 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 **Status: Live · Portfolio Project**
 
-![Uploading image.png…]()
+4a7ea05b7de18481673485bf08163164.jpg
 
 
 面向佛山木版年画数字化展示的微信小程序。项目把 AI 图像生成、后端分色、传统套印逻辑、2D 图层拆解、3D 展示和 CloudBase 资源链路连接成一套完整体验。
