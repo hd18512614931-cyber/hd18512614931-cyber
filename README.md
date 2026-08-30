@@ -41,6 +41,15 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 ### [Halloween Wayfinder 互动场景]
 治愈系幽灵小游戏
 (https://zou-handy.github.io/game-inspiration-zou-hengdian/exact/index.html)
+### 动态演示 / Screenshots
+
+<div align="center">
+  <img src="mmexport7d5e8fa2c34a95399e11e0c9993cb5b0_1788092158765.gif" width="80%" alt="Demo 1">
+  <br>
+  <img src="mmexport9088de28935412940270587f05930b77_1788092161340.gif" width="80%" alt="Demo 2">
+  <br>
+  <img src="mmexportd1c18b7842ef074a99aa7269f4201d5f_1788092163625.gif" width="80%" alt="Demo 3">
+</div>
 
 **Status: WebGL / Three.js Interactive Prototype**
 
