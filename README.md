@@ -38,8 +38,8 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 `WeChat Mini Program` · `JavaScript` · `CloudBase` · `AI Image Generation` · `Image Processing` · `GitHub Actions`
 
-### [Halloween Wayfinder 互动场景原型]
-
+### [Halloween Wayfinder 互动场景]
+治愈系幽灵小游戏
 (https://zou-handy.github.io/game-inspiration-zou-hengdian/exact/index.html)
 
 **Status: WebGL / Three.js Interactive Prototype**
@@ -66,9 +66,9 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 | 方向 | 代表内容 | 当前策略 |
 |---|---|---|
-| **Game & Interactive Prototypes** | Unreal Engine 跑酷原型、Three.js / WebGL 场景、角色交互与 Pages 部署 | 整理第三方素材边界后再公开干净版本 |
+| **Game & Interactive Prototypes** | Unreal Engine 跑酷游戏原型、Three.js / WebGL 场景、角色交互与 Pages 部署 | 整理第三方素材边界后再公开干净版本 |
 | **AixLab Creative Plugins** | Photoshop AI 抠图与电商工作流插件、Cinema 4D / Redshift 工具 | 优先公开源码完整、授权清楚的插件 |
-| **Mobile Creative Apps** | 旅印相机、电商长图拼接工具、操作手册与功能演示 | 区分完整源码、APK 与交付资料 |
+| **Mobile Creative Apps** | 旅印相机、电商长图拼接工具app、操作手册与功能演示 | 区分完整源码、APK 与交付资料 |
 
 部分作品仓库目前保持私有，用于继续检查第三方素材授权、敏感配置和可公开范围。
 
@@ -82,13 +82,6 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 | **Creative Workflow** | Photoshop · Cinema 4D · Redshift · Image Processing |
 | **Engineering** | Git · GitHub Actions · CI/CD · CloudBase · Technical Documentation |
 
-## 仓库原则 / Repository Principles
-
-1. **状态说清楚**：Active、Live、Completed、Archived、Research / Fork 明确区分。
-2. **贡献边界说清楚**：原创、二次开发、开源基础、研究镜像和第三方素材分别标注。
-3. **源码与产物分开**：APK、演示视频、交付文件不会被包装成完整源码。
-4. **本地配置不进仓库**：密钥、本机路径、缓存和编辑器私有状态默认排除。
-5. **保留工程证据**：通过 commit、PR、演示、测试和文档说明项目是如何完成的。
 
 ---
 
