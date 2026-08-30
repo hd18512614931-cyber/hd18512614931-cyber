@@ -32,11 +32,15 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 
 面向佛山木版年画数字化展示的微信小程序。项目把 AI 图像生成、后端分色、传统套印逻辑、2D 图层拆解、3D 展示和 CloudBase 资源链路连接成一套完整体验。
 
+小程序内置有非遗传统文化的知识库agent小年-不止于对话，还有调研小程序内部api实现ai操控小程序
+
 小程序已经正式上线；仓库首页提供可扫码体验的小程序码与完整功能演示视频，同时明确记录了当前源码快照与最后一次线上发布版本之间的边界。
 
 `WeChat Mini Program` · `JavaScript` · `CloudBase` · `AI Image Generation` · `Image Processing` · `GitHub Actions`
 
-### [Halloween Wayfinder 互动场景原型](https://zou-handy.github.io/game-inspiration-zou-hengdian/exact/index.html)
+### [Halloween Wayfinder 互动场景原型]
+
+(https://zou-handy.github.io/game-inspiration-zou-hengdian/exact/index.html)
 
 **Status: WebGL / Three.js Interactive Prototype**
 
