@@ -59,7 +59,7 @@ I build practical creative tools, AI-assisted workflows, games and interactive e
 - **Operit** — [Fix cloud embedding endpoint validation · PR #588](https://github.com/AAswordman/Operit/pull/588) **Merged**  
   增加云端 Embedding 地址校验、内联错误提示和保存成功反馈，避免多行或无效 Endpoint 被持久化后造成请求失败。
 
-   **dsh-tui** — [Fix cloud embedding endpoint validation · PR #588](https://github.com/ccch1mneyyy/dsh-TUI/issues/672#event-30278906337) **Merged** 
+   **dsh-tui** — https://github.com/ccch1mneyyy/dsh-TUI/issues/672#event-30278906337 **Merged** 
 
 ## 已完成 / 已归档项目 · Completed / Archived
 
